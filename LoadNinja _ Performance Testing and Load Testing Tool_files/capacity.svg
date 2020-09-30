@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <style>
+      .a, .b {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .a {
+        stroke: #758491;
+        stroke-width: 0.75px;
+      }
+
+      .b {
+        stroke: #515050;
+      }
+    </style>
+  </defs>
+  <title>SV_FT</title>
+  <g>
+    <g>
+      <circle class="a" cx="31" cy="31" r="24.56"/>
+      <line class="a" x1="14.091" y1="20.296" x2="15.457" y2="21.17"/>
+      <line class="a" x1="10.603" y1="29.446" x2="11.924" y2="29.52"/>
+      <line class="a" x1="30.784" y1="11.863" x2="30.879" y2="14.363"/>
+      <line class="a" x1="21.468" y1="14.146" x2="22.522" y2="15.871"/>
+      <g>
+        <line class="a" x1="48.094" y1="20.239" x2="44.68" y2="22.455"/>
+        <line class="a" x1="51.582" y1="29.39" x2="47.089" y2="30.001"/>
+        <line class="a" x1="40.717" y1="14.09" x2="38.9" y2="16.995"/>
+      </g>
+    </g>
+    <line class="b" x1="30.044" y1="33.626" x2="38.402" y2="25.268"/>
+  </g>
+</svg>
